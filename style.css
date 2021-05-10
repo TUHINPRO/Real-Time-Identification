@@ -1,0 +1,40 @@
+.heading {
+    width:100%;
+    font-size: 25px;
+    margin:0px;
+    box-shadow:5px 5px 5px gray;
+}
+.division {
+    float: none;
+    border-radius:20px;
+    background-color: green;
+    color: antiquewhite;
+    padding:10px;
+    box-shadow:5px 5px 5px aquamarine;
+}
+.division2 {
+    font-size:20px!important;
+}
+.results {
+    font-size: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
+.footer {
+    position:fixed;
+    bottom:0;
+    line-height:3;
+    width:100%;
+    text-align:center;
+    color:darkblue;
+    font-size:20px;
+    background-color:darkgoldenrod;
+    
+}
+
+
+canvas {
+    border-radius:20px;
+    box-shadow: 5px 5px 5px greenyellow;
+    border:5px dashed greenyellow ;
+    margin-top:100px;
+}
